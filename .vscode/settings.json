@@ -1,0 +1,16 @@
+{
+    "powermode.enabled": true,
+    "powermode.explosions.duration": 1000,
+    "powermode.explosions.frequency": 1,
+    "powermode.explosions.gifMode": "continue",
+    "powermode.explosions.offset": 0.35,
+    "powermode.explosions.size": 3,
+    "powermode.presets": "flames",
+    "powermode.shake.enabled": false,
+    "files.associations": {
+        ".env*": "dotenv",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "ostream": "cpp"
+    }
+}
