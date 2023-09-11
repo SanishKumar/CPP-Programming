@@ -15,3 +15,4 @@ int main(){
     cout << "The factorial is: "<<factorial(a)<<endl;;
     return 0;
 }
+
