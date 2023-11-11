@@ -47,6 +47,9 @@ void Employee :: setData(int a1, int b1, int c1){
 
 int main(){
     Employee harry;
+    // harry.a = 1 <- Error 'cause a is private;
+    harry.d = 9;
+    harry.e = 12;
     harry.setData(1, 2, 4);
     harry.getData();
     return 0;
